@@ -57,7 +57,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-fnSjil5kU14pUUi6iB5gaqSH9XxgI9M975EkhW7qePY=",
+      "hash": "sha256-bNV0dgYIxz2JgKM\/Mh8lTwqj+Aog1wp7796slh3J3A4=",
       "url": "index.html"
     },
     {
@@ -67,6 +67,14 @@
     {
       "hash": "sha256-yzFf+O\/mlH+Q9klUSqXP2kxGKOUFLPxaww8da8fKhGU=",
       "url": "sample-data\/weather.json"
+    },
+    {
+      "hash": "sha256-FgK0viM0BU2\/HVt6aBF6u0kOHyARBt\/N6pyBpO\/myxc=",
+      "url": "webcamjs\/Configuration.js"
+    },
+    {
+      "hash": "sha256-9jdQbz1Tn0cyEJ7gObTLMpEX4eAHMD\/htPgpralAqaY=",
+      "url": "webcamjs\/webcam.min.js"
     },
     {
       "hash": "sha256-OEDZp6noMH3AdT8qd0zd7ZXzy2CsPQ+CZeQnYmRoVWo=",
@@ -161,7 +169,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-4B3Ewwclkb8OSzpz2X3gOaE1S+bBFLos\/Rx\/53eeA+A=",
+      "hash": "sha256-v8omX9u\/NU4UgQGXUgC\/6PNLvFb\/EzuozWRYzZA5vbw=",
       "url": "_framework\/BlazorWasmPrototype.dll"
     },
     {
@@ -237,7 +245,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-AwduuE0V9vAiEz+bAcEPcI1SyQTeA\/vHRAvyPA+Nrew=",
+      "hash": "sha256-zsJD+LJvlAtx9PI3B+P2IHC9AlnAve4MP2KBN+Q3ips=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -245,5 +253,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "Rl8sIGMQ"
+  "version": "b\/zjH+Db"
 };
